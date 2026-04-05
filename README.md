@@ -37,7 +37,7 @@ I care about **clean architecture, performance, and real-world usability**, not 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lial03&theme=tokyo-night&hide_border=true&area=true&custom_title=Lina%20Mukashumbusho%20-%20Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lial03&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ I care about **clean architecture, performance, and real-world usability**, not 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lial03&layout=compact&theme=radical&hide_border=true&langs_count=8&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lial03&layout=compact" />
 </p>
 
 ---
