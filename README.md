@@ -37,7 +37,6 @@ I care about **clean architecture, performance, and real-world usability**, not 
 ---
 
 ## 💻 Tech Stack: 
-## 💻 Tech Stack
 
 ### 🧠 Languages
 
