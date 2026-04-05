@@ -32,14 +32,20 @@ I care about **clean architecture, performance, and real-world usability**, not 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lial03&theme=radical&hide_border=true&cache_seconds=86400)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lial03&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400)
-
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lial03&theme=github-compact&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lial03&theme=tokyo-night&hide_border=true&area=true&custom_title=Lina%20Mukashumbusho%20-%20Contribution%20Activity" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lial03&layout=donut&theme=tokyo-night&hide_border=true&langs_count=8" />
 </p>
 
 ---
