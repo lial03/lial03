@@ -38,7 +38,9 @@ I care about **clean architecture, performance, and real-world usability**, not 
 
 ## 📈 Contribution Activity
 
-[![Lina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lial03&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lial03&theme=github-compact&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Graph" />
+</p>
 
 ---
 
