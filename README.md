@@ -45,7 +45,7 @@ I care about **clean architecture, performance, and real-world usability**, not 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lial03&layout=donut&theme=tokyo-night&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lial03&layout=donut&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
