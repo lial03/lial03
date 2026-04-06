@@ -26,6 +26,14 @@ I care about **clean architecture, performance, and real-world usability**, not 
 
 ---
 
+## 📊 Development Breakdown
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lial03&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lial03&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lial03&theme=radical&utcOffset=3)
+
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lial03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
@@ -122,14 +130,6 @@ I care about **clean architecture, performance, and real-world usability**, not 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 Development Breakdown
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lial03&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lial03&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lial03&theme=radical&utcOffset=3)
 
 ---
 
