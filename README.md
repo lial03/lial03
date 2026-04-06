@@ -133,7 +133,7 @@ I care about **clean architecture, performance, and real-world usability**, not 
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lial03&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lial03&theme=radical)
 
 ## ⚡ Highlights
 - Built full-stack systems from scratch (frontend → backend → database)
