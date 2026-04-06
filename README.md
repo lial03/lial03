@@ -133,8 +133,13 @@ I care about **clean architecture, performance, and real-world usability**, not 
 
 ---
 
+## 📊 Development Breakdown
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lial03&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lial03&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lial03&theme=radical&utcOffset=3)
+
+---
 
 ## ⚡ Highlights
 - Built full-stack systems from scratch (frontend → backend → database)
